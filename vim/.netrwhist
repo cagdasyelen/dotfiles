@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/barispalaska/.vim'
+let g:netrw_dirhist_2='/Users/barispalaska/.vim/bundle'
+let g:netrw_dirhist_3='/Users/barispalaska/.vim'
+let g:netrw_dirhist_4='/Users/palaska/Documents/workspace/hilti_eventplanner'

@@ -1,6 +1,2 @@
-alias workspace="cd ~/Documents/workspace/"
-alias intel="cd ~/Documents/Intel/"
-alias bogazici="cd ~/Documents/Bogazici/"
 alias desk="cd ~/Desktop/"
 alias vim='mvim -v'
-alias ql='qlmanage -p 2>/dev/null'
